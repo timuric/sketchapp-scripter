@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "sketchapp-scripter:runScript"
   },
-  "repository": "",
+  "repository": "https://github.com/timuric/sketchapp-scripter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
