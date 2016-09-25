@@ -15,4 +15,4 @@ Or search for `sketchapp-scripter` in Atom settings view.
 ## Run
 From any file in the Atom editor press ```CTRL+R```
 
-Tip: You can monitor Sketch logs from the Atoms console ```(alt+cmd+i)```
+Tip: You can monitor Sketch logs from the Atom's console ```(alt+cmd+i)```
