@@ -1,7 +1,7 @@
 {
   "name": "sketchapp-scripter",
   "main": "./lib/sketchapp-scripter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Run scketch scripts from Atom",
   "keywords": [],
   "activationCommands": {
