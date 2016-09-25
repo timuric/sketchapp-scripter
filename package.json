@@ -1,0 +1,18 @@
+{
+  "name": "sketchapp-scripter",
+  "main": "./lib/sketchapp-scripter",
+  "version": "0.0.1",
+  "description": "Run scketch scripts from Atom",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "sketchapp-scripter:runScript"
+  },
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "coscript": "^1.0.0"
+  }
+}

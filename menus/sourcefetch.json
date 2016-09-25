@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Run script",
+        "command": "sketchapp-scripter:runScript"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Sketchapp scripter",
+          "submenu": [
+            {
+              "label": "Run script",
+              "command": "sketchapp-scripter:runScript"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
